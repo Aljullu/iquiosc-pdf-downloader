@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Baixa PDF de l'iQuiosc",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Afegeix un botó per a baixar-se fitxers PDF de l'iQuiosc.",
+    "description": "Description of the add-on."
+  },
+
+  "downloadPdf": {
+    "message": "Baixa el PDF",
+    "description": "Button title"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_extensionName__",
+  "description": "__MSG_extensionDescription__",
+  "version": "1.0",
+  "default_locale": "en",
+  "homepage_url": "https://github.com/aljullu/iquiosc-pdf-downloader",
+  "icons": {
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png"
+  },
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ],
+  "page_action": {
+    "default_icon": {
+      "19": "buttons/download-19.png",
+      "38": "buttons/download-38.png"
+    }
+  },
+  "background": {
+    "scripts": ["background.js"]
+  }
+}

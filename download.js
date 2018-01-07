@@ -1,0 +1,1 @@
+window.wrappedJSObject.PDFViewerApplication.download();

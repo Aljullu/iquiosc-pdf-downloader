@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "iQuiosc PDF Downloader",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Adds a button to download PDF files from iQuiosc.",
+    "description": "Description of the add-on."
+  },
+
+  "downloadPdf": {
+    "message": "Download PDF",
+    "description": "Button title"
+  }
+}
