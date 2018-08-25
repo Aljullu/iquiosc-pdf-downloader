@@ -14,10 +14,12 @@
     "tabs"
   ],
   "page_action": {
+    "show_matches": ["https://*.iquiosc.cat/visor/*"],
     "default_icon": {
       "19": "buttons/download-19.png",
       "38": "buttons/download-38.png"
-    }
+    },
+    "default_title": "__MSG_downloadPdf__"
   },
   "background": {
     "scripts": ["background.js"]
