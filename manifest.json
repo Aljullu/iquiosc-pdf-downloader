@@ -2,17 +2,14 @@
   "manifest_version": 2,
   "name": "__MSG_extensionName__",
   "description": "__MSG_extensionDescription__",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "default_locale": "en",
-  "homepage_url": "https://github.com/aljullu/iquiosc-pdf-downloader",
+  "homepage_url": "https://github.com/Aljullu/iquiosc-pdf-downloader",
   "icons": {
-    "48": "icons/icon-48.png",
-    "96": "icons/icon-96.png"
+    "48": "icons/icon.svg",
+    "96": "icons/icon.svg"
   },
-  "permissions": [
-    "activeTab",
-    "tabs"
-  ],
+  "permissions": ["activeTab", "tabs"],
   "page_action": {
     "show_matches": ["https://*.iquiosc.cat/visor/*"],
     "default_icon": {

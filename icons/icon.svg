@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+	<rect x="12" y="4" width="42" height="56" fill="white" stroke="black" stroke-width="2"/>
+	<text x="33" y="20" text-anchor="middle" font-size="10" font-family="Arial, sans-serif" fill="black">iQuiosc</text>
+	<path d="M32 30 V50 M24 42 L32 50 L40 42" stroke="black" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+
